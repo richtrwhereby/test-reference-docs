@@ -62,11 +62,6 @@
         "description": "The requested resource doesn't exist"
       }
     },
-    "security": [
-      {
-        "BearerAuth": []
-      }
-    ],
     "parameters": {
       "meetingId": {
         "name": "meetingId",
